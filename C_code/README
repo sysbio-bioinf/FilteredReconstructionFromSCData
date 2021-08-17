@@ -1,0 +1,2 @@
+Compile Code to generate library via:
+R CMD SHLIB InferViaCorrelation.c entries.c
